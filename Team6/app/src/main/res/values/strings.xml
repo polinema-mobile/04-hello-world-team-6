@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Team6</string>
+    <string name="ButtonNext">Next</string>
+    <string name="IsiText">Agsal Fairrohmad A.P/03/1841720208</string>
+    <string name="open_next_page">Open Next page</string>
+    <string name="team_6">Team 6!</string>
 </resources>
